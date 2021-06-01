@@ -8,7 +8,7 @@ The .csv files are of my own creation and are found in /data
 
 A database schema is given in schema.sql
 
-2) GIS analysis using Python using Jupyter notebook. Data produced from the first step presented a list of countries and the times they have won eurovision. This information was used to merge with a general world shapefile to display spatially using Geopandas and Python the winning Eurovision countries. I then correctly transformed the data into a projected format and used the geopandas clip feature present the Eurovision winners focusing on the European Region. 
+2) GIS analysis using geopandas and Jupyter notebook. Data produced from the first step presented a list of countries and the times they have won eurovision. This information was used to merge with a general world shapefile to display spatially using Geopandas and Python the winning Eurovision countries. I then correctly transformed the data into a projected format and used the geopandas clip feature present the Eurovision winners focusing on the European Region. 
 
 The shapefile is found in /World_Countries
 
