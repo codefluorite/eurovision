@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+    rstudio:
+        environment:
+            - USER=codefluorite
+            - PASSWORD=password
+        restart: always
+        image: "rocker/verse"
+        ports:
+            - 8787:8787
+    
+    db:
+        image: "postgres:latest"
+        restart: always
+        environment:
+            POSTGRES_USER: "codefluorite"
+            POSTGRES_PASSWORD: "password"
+            POSTGRES_DB: "eurovision"
+        ports:
+            - 5432:5432
+        volumes:
+            - /var/postgresql/data:/var/lib/postgresql/data
+
+    pgadmin4:
+        image: "dpage/pgadmin4"
+        restart: always
+        environment:
+            PGADMIN_DEFAULT_EMAIL: "user@codefluorite.com"
+            PGADMIN_DEFAULT_PASSWORD: "password"
+        ports:
+            - "80:80"
+        depends_on:
+            - db

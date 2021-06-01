@@ -1,0 +1,69 @@
+id,year,host_city,winner,song,performer,language,runner_up,participant_number
+1,1956,Lugano,Switzerland,Refrain,Lys Assia,French,Not announced,14
+2,1957,Frankfurt,Netherlands,Net als toen,Corry Brokken,Dutch,France,10
+3,1958,Hilversum,France,"Dors, mon amour",Andre Claveau,French,Switzerland,10
+4,1959,Cannes,Netherlands,Een beetje,Teddy Scholten,Dutch,United Kingdom,11
+5,1960,London,France,Tom Pillibi,Jacqueline Boyer,French,United Kingdom,13
+6,1961,Cannes,Luxembourg,Nous les amoureux,Jean-Claude Pascal,French,United Kingdom,16
+7,1962,Luxembourg,France,Un premier amour,Isabelle Aubret,French,Monaco,16
+8,1963,London,Denmark,Dansevise,Grethe and Jurgen Ingmann,Danish,Switzerland,16
+9,1964,Copenhagen,Italy,Non ho l'et,Gigliola Cinquetti,Italian,United Kingdom,16
+10,1965,Naples,Luxembourg,"Poup_e de cire, poup_e de son",France Gall,French,United Kingdom,18
+11,1966,Luxembourg,Austria,"Merci, Cherie",Udo Jurgens,German,Sweden,18
+12,1967,Vienna,United Kingdom,Puppet on a String,Sandie Shaw,English,Ireland,17
+13,1968,London,Spain,"La, la, la",Massiel,Spanish,United Kingdom,17
+14,1969,Madrid,Spain,Vivo cantando,Salome,Spanish,No runner-up,16
+15,1969,Madrid,United Kingdom,Boom Bang-a-Bang,Lulu,English,No runner-up,16
+16,1969,Madrid,Netherlands,De troubadour,Lenny Kuhr,Dutch,No runner-up,16
+17,1969,Madrid,France,"Un jour, un enfant",Frida Boccara,French,No runner-up,16
+18,1970,Amsterdam,Ireland,All Kinds of Everything,Dana,English,United Kingdom,12
+19,1971,Dublin,Monaco,"Un banc, un arbre, une rue",Severine,French,Spain,18
+20,1972,Edinburgh,Luxembourg,Apres toi,Vicky Leandros,French,United Kingdom,18
+21,1973,Luxembourg,Luxembourg,Tu te reconnaitras,Anne-Marie David,French,Spain,17
+22,1974,Brighton,Sweden,"""Waterloo""",ABBA,English,Italy,17
+23,1975,Stockholm,Netherlands,Ding-a-dong,Teach-In,English,United Kingdom,19
+24,1976,The Hague,United Kingdom,Save Your Kisses for Me,Brotherhood of Man,English,France,18
+25,1977,London,France,L'oiseau et l'enfant,Marie Myriam,French,United Kingdom,18
+26,1978,Paris,Israel,A-Ba-Ni-Bi,Izhar Cohenand theAlphabeta,Hebrew,Belgium,20
+27,1979,Jerusalem,Israel,Hallelujah,Gali AtariandMilk and Honey,Hebrew,Spain,19
+28,1980,The Hague,Ireland,"""What's Another Year""",Johnny Logan,English,Germany,19
+29,1981,Dublin,United Kingdom,Making Your Mind Up,Bucks Fizz,English,Germany,20
+30,1982,Harrogate,Germany,Ein bischen Frieden,Nicole,German,Israel,18
+31,1983,Munich,Luxembourg,Si la vie est cadeau,Corinne Hermes,French,Israel,20
+32,1984,Luxembourg,Sweden,Diggi-Loo Diggi-Ley,Herreys,Swedish,Ireland,19
+33,1985,Gothenburg,Norway,La det swinge,Bobbysocks!,Norwegian,Germany,19
+34,1986,Bergen,Belgium,J'aime la vie,Sandra Kim,French,Switzerland,20
+35,1987,Brussels,Ireland,Hold Me Now,Johnny Logan,English,Germany,22
+36,1988,Dublin,Switzerland,Ne partez pas sans moi,Celine Dion,French,United Kingdom,21
+37,1989,Lausanne,Yugoslavia,Rock Me,Riva,Serbo-Croatian,United Kingdom,22
+38,1990,Zagreb,Italy,Insieme: 1992,Toto Cutugno,Italian,Ireland,22
+39,1991,Rome,Sweden,Fangad av en stormvind,Carola,Swedish,France,22
+40,1992,Malm_,Ireland,Why Me?,Linda Martin,English,United Kingdom,23
+41,1993,Millstreet,Ireland,In Your Eyes,Niamh Kavanagh,English,United Kingdom,25
+42,1994,Dublin,Ireland,Rock 'n' Roll Kids,Paul Harringtonand and Charlie McGettigan,English,Poland,25
+43,1995,Dublin,Norway,Nocturne,Secret Garden,Norwegian,Spain,23
+44,1996,Oslo,Ireland,The Voice,Eimear Quinn,English,Norway,29
+45,1997,Dublin,United Kingdom,Love Shine a Light,Katrina and the Waves,English,Ireland,25
+46,1998,Birmingham,Israel,Diva,Dana International,Hebrew,United Kingdom,25
+47,1999,Jerusalem,Sweden,Take Me to Your Heaven,Charlotte Nilsson,English,Iceland,23
+48,2000,Stockholm,Denmark,Fly on the Wings of Love,Olsen Brothers,English,Russia,24
+49,2001,Copenhagen,Estonia,Everybody,"Tanel Padar,Dave Bentonand2XL",English,Denmark,23
+50,2002,Tallinn,Latvia,I Wanna,Marie N,English,Malta,24
+51,2003,Riga,Turkey,Everyway That I Can,Sertab Erener,English,Belgium,26
+52,2004,Istanbul,Ukraine,"""Wild Dances""",Ruslana,English,Serbia and Montenegro,36
+53,2005,Kiev,Greece,My Number One,Helena Paparizou,English,Malta,39
+54,2006,Athens,Finland,Hard Rock Hallelujah,Lordi,English,Russia,37
+55,2007,Helsinki,Serbia,Molitva,Marija  erifovi,Serbian,Ukraine,42
+56,2008,Belgrade,Russia,"""Believe""",Dima Bilan,English,Ukraine,43
+57,2009,Moscow,Norway,Fairytale,Alexander Rybak,English,Iceland,42
+58,2010,Oslo,Germany,Satellite,Lena,English,Turkey,39
+59,2011,Dusseldorf,Azerbaijan,Running Scared,Ell & Nikki,English,Italy,43
+60,2012,Baku,Sweden,Euphoria,Loreen,English,Russia,42
+61,2013,Malmo,Denmark,"""Only Teardrops""",Emmelie de Forest,English,Azerbaijan,39
+62,2014,Copenhagen,Austria,Rise Like a Phoenix,Conchita Wurst,English,Netherlands,37
+63,2015,Vienna,Sweden,Heroes,Mans Zelmerlow,English,Russia,40
+64,2016,Stockholm,Ukraine,1944,Jamala,English,Australia,42
+65,2017,Kiev,Portugal,Amar pelos dois,Salvador Sobral,Portuguese,Bulgaria,42
+66,2018,Lisbon,Israel,Toy,Netta,English,Cyprus,43
+67,2019,Tel Aviv,Netherlands,Arcade,Duncan Laurence,English,Italy,41
+68,2021,Rotterdam,Italy,Zitti e buoni,Maneskin,Italian,France,39
